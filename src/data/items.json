@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "CC Cream",
+    "price": 340.99,
+    "imgUrl": "https://lamode.info/tl_files/MATERIALS_2018/URODA/MAKIJA%C5%BB/CHANEL%20CC%20CREAM%20SPF%2050:%20PIELEGNACJA%20I%20MAKIJAZ%20W%20JEDNYM/0CHANEL.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cheek Balm",
+    "price": 654.9,
+    "imgUrl": "https://www.temptalia.com/wp-content/uploads/2022/01/chanel_no-1-de-chanel-lip-and-cheek_001_product-760x760.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bragmybag",
+    "price": 117.9,
+    "imgUrl": "https://www.bragmybag.com/wp-content/uploads/2019/05/Chanel-Color-Pop-CC-Small-Accessories-4.jpg"
+  },
+  {
+    "id": 4,
+    "name": "chanel kite",
+    "price": 849.99,
+    "imgUrl": "https://palisadesvillageca.com/wp-content/uploads/2018/08/CHANEL-sab-pv-shopping-page-900x600.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Spring blush",
+    "price": 550.89,
+    "imgUrl": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_jpg,fl_lossy,dpr_1.2/w_620/coco-mademoiselle-eau-de-toilette-refillable-purse-spray-1-7fl-oz--packshot-default-116310-8839516979230.jpg"
+  },
+  {
+    "id": 6,
+    "name": "chanel-makeup",
+    "price": 745.3,
+    "imgUrl": "https://cdn.cliqueinc.com/posts/296413/best-chanel-makeup-products-296413-1637277065886-main.700x0c.jpg"
+  }
+]
